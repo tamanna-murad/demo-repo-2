@@ -2,7 +2,7 @@
 
 put some text
 
-## subheader
+## sub header
 
 learning is must
 
